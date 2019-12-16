@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="nama_pokemon">Nama Pokemon</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="nama">Ferdy Barliansyah R.</string>
+    <string name="email">ferdy.barliansyah@gmail.com</string>
+</resources>
